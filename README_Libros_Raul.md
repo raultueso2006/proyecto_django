@@ -55,6 +55,8 @@ git clone https://github.com/raultueso2006/proyecto_django.git
 
 ---
 
+. Abrir la terminal desde la carpeta donde esta el manage.py.
+
 ### 2️⃣ Crear y activar el entorno virtual
 
 #### 🪟 En Windows (PowerShell o VS Code terminal):
